@@ -1,18 +1,19 @@
 # Multi-Agent Fraud detector app, OpenAI-compatible with MCP Architecture
 
-This repository contains a framework for running multi-agent OpenAI Assistant workflows using a Model-Client-Proxy (MCP) architecture.
+Multi-agent (4) framework for running OpenAI-compatible workflow for detecting financial annomalies using Model-Client-Proxy (MCP) architecture.
 
 ## Overview
 
-This project implements a system where multiple AI assistants analyze merchant data using OpenAI's Assistant API. The framework uses a Model-Client-Proxy architecture to separate the AI models from the data processing functions.
+This project implements a system of multiple AI agents which analyze merchant data using OpenAI's Assistant API. 
+The framework uses a Model-Client-Proxy architecture to separate the AI models from the data processing functions.
 
 ## Components
 
 ### MCP Server (`server.py`)
-- **Technology**: Flask web server
+- **Tech choice**: Flask web server
 - **Function**: 
   - Loads synthetic CSV data into Pandas DataFrames at startup
-  - Contains Python functions that perform data analysis/actions (your "tools")
+  - Contains Python functions that perform data analysis/actions (our "tools")
   - Provides API endpoints:
     - `/tools` (GET): Lists available functions with descriptions
     - `/execute` (POST): Receives `tool_name` and arguments, executes the corresponding function, and returns results
@@ -71,8 +72,8 @@ This project implements a system where multiple AI assistants analyze merchant d
 ## Data
 
 The system works with synthetic CSV data containing merchant information. You can:
-- Use the provided CSV files
-- Generate new data using the data generation script
+- Use the provided CSV files (in mcp_server directory)
+- Generate new data using the data generation script (datagen.py)
 
 ## System Flow
 
