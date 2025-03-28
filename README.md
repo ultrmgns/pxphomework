@@ -69,6 +69,7 @@ Multi-agent (4) framework for running OpenAI-compatible workflow for detecting f
 The system works with synthetic CSV data containing merchant information. You can:
 - Use the provided CSV files (in mcp_server directory)
 - Generate new data using the data generation script (datagen.py)
+- Create a custom pipeline (which would require modifications to all scripts, but since we're working with synthetic data for this exercise, this should be sufficient to deliver the point across)
 
 ## System Flow
 
