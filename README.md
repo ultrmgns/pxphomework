@@ -67,7 +67,7 @@ The framework uses a Model-Client-Proxy architecture to separate the AI models f
 
 - **Model**: Default is `gpt-4-turbo-preview`, can be changed on line 116 in `orchestrator.py`
 - **Merchant IDs**: Can be modified on line 346 to analyze different merchants (range: M1001-M1999)
-- **Analysis Functions**: The analyze function currently uses basic pattern analysis, but can be augmented with machine learning models, graphs+ML, or any analytical tools.
+- **Detection Functions**: The function currently uses basic pattern analysis, but can be augmented with machine learning models, graphs+ML, or any analytical tools.
 
 ## Data
 
