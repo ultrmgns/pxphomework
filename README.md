@@ -2,11 +2,6 @@
 
 Multi-agent (4) framework for running OpenAI-compatible workflow for detecting financial annomalies using Model-Client-Proxy architecture.
 
-## Overview
-
-This project implements a system of multiple AI agents which analyze merchant data using OpenAI's Assistant API. 
-The framework uses a Model-Client-Proxy architecture to separate the AI models from the data processing functions.
-
 ## Components
 
 ### MCP Server (`server.py`)
