@@ -1,0 +1,1001 @@
+merchant_id,mcc,merchant_name,country,ownership_changed_recently,baseline_risk
+M1000,5732,Electronics Stores 0,RU,False,High
+M1001,5812,Restaurants 1,GB,False,Medium
+M1002,5999,Misc Retail 2,MT,False,High
+M1003,7999,Misc Rec Services 3,MT,True,High
+M1004,7999,Misc Rec Services 4,RU,True,High
+M1005,5541,Gas Stations 5,AU,False,Low
+M1006,5411,Grocery Stores 6,GB,False,Low
+M1007,5411,Grocery Stores 7,AU,False,Low
+M1008,5411,Grocery Stores 8,AU,True,Medium
+M1009,5999,Misc Retail 9,DE,False,Medium
+M1010,4814,Telecom Services 10,CA,False,Low
+M1011,7999,Misc Rec Services 11,AU,False,Low
+M1012,4814,Telecom Services 12,US,True,Low
+M1013,7999,Misc Rec Services 13,CA,True,Low
+M1014,4814,Telecom Services 14,PA,False,High
+M1015,5732,Electronics Stores 15,AU,False,Low
+M1016,5999,Misc Retail 16,DE,False,Low
+M1017,5732,Electronics Stores 17,US,True,Low
+M1018,4814,Telecom Services 18,DE,False,Low
+M1019,4814,Telecom Services 19,GB,True,Low
+M1020,7999,Misc Rec Services 20,RU,True,High
+M1021,5411,Grocery Stores 21,GB,True,Low
+M1022,5541,Gas Stations 22,LV,False,High
+M1023,5812,Restaurants 23,US,True,Medium
+M1024,7999,Misc Rec Services 24,AU,True,Low
+M1025,5541,Gas Stations 25,GB,False,Low
+M1026,4814,Telecom Services 26,GB,False,Low
+M1027,5541,Gas Stations 27,AU,False,Low
+M1028,5411,Grocery Stores 28,FR,False,Low
+M1029,5812,Restaurants 29,CA,False,Low
+M1030,7999,Misc Rec Services 30,DE,False,Low
+M1031,5732,Electronics Stores 31,CA,False,Low
+M1032,5541,Gas Stations 32,LV,False,High
+M1033,5812,Restaurants 33,CA,False,Low
+M1034,5732,Electronics Stores 34,FR,False,Medium
+M1035,4814,Telecom Services 35,GB,False,Low
+M1036,5541,Gas Stations 36,CA,False,Medium
+M1037,5812,Restaurants 37,AU,False,Low
+M1038,5411,Grocery Stores 38,FR,False,Medium
+M1039,5999,Misc Retail 39,GB,False,Low
+M1040,7999,Misc Rec Services 40,US,False,Low
+M1041,7999,Misc Rec Services 41,DE,False,Low
+M1042,5411,Grocery Stores 42,CA,True,Low
+M1043,4814,Telecom Services 43,FR,False,Low
+M1044,5411,Grocery Stores 44,US,True,Low
+M1045,5732,Electronics Stores 45,CA,False,Low
+M1046,5541,Gas Stations 46,MT,True,High
+M1047,5541,Gas Stations 47,DE,False,Low
+M1048,5812,Restaurants 48,CA,False,Low
+M1049,5541,Gas Stations 49,CA,True,Low
+M1050,4814,Telecom Services 50,CY,False,High
+M1051,4814,Telecom Services 51,FR,True,Medium
+M1052,5541,Gas Stations 52,CA,True,Low
+M1053,5541,Gas Stations 53,CA,False,Low
+M1054,5812,Restaurants 54,US,False,Low
+M1055,5732,Electronics Stores 55,US,False,Low
+M1056,5812,Restaurants 56,CY,False,High
+M1057,5541,Gas Stations 57,GB,False,Medium
+M1058,4814,Telecom Services 58,PA,False,High
+M1059,7999,Misc Rec Services 59,FR,False,Low
+M1060,5999,Misc Retail 60,US,False,Low
+M1061,5541,Gas Stations 61,CY,False,High
+M1062,5541,Gas Stations 62,US,False,Medium
+M1063,4814,Telecom Services 63,CY,False,High
+M1064,7999,Misc Rec Services 64,FR,False,Medium
+M1065,5411,Grocery Stores 65,CA,False,Medium
+M1066,5411,Grocery Stores 66,GB,False,Low
+M1067,5541,Gas Stations 67,GB,True,Low
+M1068,7999,Misc Rec Services 68,AU,False,Low
+M1069,5732,Electronics Stores 69,GB,True,Low
+M1070,5411,Grocery Stores 70,DE,False,Low
+M1071,7999,Misc Rec Services 71,GB,True,Medium
+M1072,4814,Telecom Services 72,CA,True,Medium
+M1073,5541,Gas Stations 73,GB,False,Low
+M1074,5999,Misc Retail 74,FR,False,Low
+M1075,7999,Misc Rec Services 75,GB,False,Low
+M1076,5732,Electronics Stores 76,DE,True,Low
+M1077,5732,Electronics Stores 77,CA,False,Low
+M1078,7999,Misc Rec Services 78,FR,False,Low
+M1079,7999,Misc Rec Services 79,CA,True,Low
+M1080,5999,Misc Retail 80,DE,False,Low
+M1081,4814,Telecom Services 81,DE,False,Medium
+M1082,5541,Gas Stations 82,DE,True,Low
+M1083,5812,Restaurants 83,CA,False,Low
+M1084,5812,Restaurants 84,FR,False,Low
+M1085,5732,Electronics Stores 85,GB,True,Low
+M1086,5999,Misc Retail 86,DE,False,Low
+M1087,5541,Gas Stations 87,DE,False,Medium
+M1088,5411,Grocery Stores 88,CA,True,Medium
+M1089,5732,Electronics Stores 89,DE,False,Low
+M1090,5541,Gas Stations 90,CY,False,High
+M1091,5999,Misc Retail 91,US,False,Low
+M1092,4814,Telecom Services 92,FR,False,Medium
+M1093,5411,Grocery Stores 93,GB,False,Low
+M1094,5812,Restaurants 94,US,True,Low
+M1095,7999,Misc Rec Services 95,US,False,Low
+M1096,4814,Telecom Services 96,AU,False,Low
+M1097,5999,Misc Retail 97,FR,True,Low
+M1098,5411,Grocery Stores 98,CA,False,Low
+M1099,5541,Gas Stations 99,GB,False,Low
+M1100,5732,Electronics Stores 100,AU,True,Medium
+M1101,5732,Electronics Stores 101,CA,False,Low
+M1102,5411,Grocery Stores 102,GB,False,Low
+M1103,5411,Grocery Stores 103,FR,False,Medium
+M1104,5541,Gas Stations 104,GB,False,Low
+M1105,5411,Grocery Stores 105,CA,True,Low
+M1106,5541,Gas Stations 106,US,False,Medium
+M1107,5812,Restaurants 107,CA,False,Low
+M1108,4814,Telecom Services 108,AU,False,Low
+M1109,4814,Telecom Services 109,CA,True,Medium
+M1110,5732,Electronics Stores 110,US,True,Low
+M1111,4814,Telecom Services 111,US,False,Medium
+M1112,5411,Grocery Stores 112,GB,True,Low
+M1113,5541,Gas Stations 113,CA,False,Low
+M1114,5732,Electronics Stores 114,DE,False,Medium
+M1115,5411,Grocery Stores 115,CA,False,Low
+M1116,5541,Gas Stations 116,AU,True,Medium
+M1117,4814,Telecom Services 117,DE,False,Low
+M1118,5999,Misc Retail 118,DE,False,Low
+M1119,5411,Grocery Stores 119,US,False,Low
+M1120,4814,Telecom Services 120,DE,True,Low
+M1121,5999,Misc Retail 121,FR,True,Low
+M1122,5812,Restaurants 122,AU,True,Low
+M1123,5411,Grocery Stores 123,AU,True,Medium
+M1124,5812,Restaurants 124,US,False,Low
+M1125,5732,Electronics Stores 125,AU,False,Low
+M1126,7999,Misc Rec Services 126,CA,True,Low
+M1127,5411,Grocery Stores 127,CY,True,High
+M1128,5999,Misc Retail 128,FR,False,Low
+M1129,5541,Gas Stations 129,GB,True,Low
+M1130,5732,Electronics Stores 130,PA,False,High
+M1131,5732,Electronics Stores 131,AU,False,Low
+M1132,7999,Misc Rec Services 132,FR,False,Low
+M1133,5411,Grocery Stores 133,US,True,Low
+M1134,5999,Misc Retail 134,US,True,Low
+M1135,4814,Telecom Services 135,US,True,Low
+M1136,5411,Grocery Stores 136,DE,False,Low
+M1137,5732,Electronics Stores 137,DE,False,Low
+M1138,4814,Telecom Services 138,AU,False,Low
+M1139,5999,Misc Retail 139,PA,False,High
+M1140,5541,Gas Stations 140,AU,True,Low
+M1141,5999,Misc Retail 141,CA,True,Low
+M1142,5999,Misc Retail 142,AU,True,Low
+M1143,5812,Restaurants 143,FR,False,Low
+M1144,4814,Telecom Services 144,US,False,Low
+M1145,5411,Grocery Stores 145,CA,False,Low
+M1146,5541,Gas Stations 146,AU,False,Low
+M1147,7999,Misc Rec Services 147,US,False,Low
+M1148,7999,Misc Rec Services 148,AU,False,Medium
+M1149,5999,Misc Retail 149,US,False,Medium
+M1150,7999,Misc Rec Services 150,GB,False,Low
+M1151,7999,Misc Rec Services 151,CA,False,Low
+M1152,5411,Grocery Stores 152,GB,False,Low
+M1153,5541,Gas Stations 153,GB,False,Low
+M1154,4814,Telecom Services 154,GB,False,Low
+M1155,5732,Electronics Stores 155,GB,True,Low
+M1156,5812,Restaurants 156,US,False,Medium
+M1157,4814,Telecom Services 157,FR,True,Medium
+M1158,4814,Telecom Services 158,DE,False,Low
+M1159,5541,Gas Stations 159,AU,False,Low
+M1160,7999,Misc Rec Services 160,DE,False,Low
+M1161,5812,Restaurants 161,CA,False,Low
+M1162,5541,Gas Stations 162,CY,False,High
+M1163,5541,Gas Stations 163,CY,True,High
+M1164,4814,Telecom Services 164,RU,False,High
+M1165,5411,Grocery Stores 165,DE,False,Low
+M1166,5999,Misc Retail 166,MT,False,High
+M1167,5812,Restaurants 167,CA,True,Low
+M1168,7999,Misc Rec Services 168,GB,True,Medium
+M1169,5411,Grocery Stores 169,US,True,Low
+M1170,5999,Misc Retail 170,US,False,Low
+M1171,4814,Telecom Services 171,PA,False,High
+M1172,4814,Telecom Services 172,CA,False,Low
+M1173,7999,Misc Rec Services 173,PA,True,High
+M1174,5999,Misc Retail 174,CA,False,Low
+M1175,5541,Gas Stations 175,GB,False,Low
+M1176,4814,Telecom Services 176,DE,True,Low
+M1177,5812,Restaurants 177,CA,False,Low
+M1178,5732,Electronics Stores 178,AU,False,Medium
+M1179,5411,Grocery Stores 179,GB,True,Low
+M1180,7999,Misc Rec Services 180,FR,False,Low
+M1181,5732,Electronics Stores 181,AU,False,Medium
+M1182,5732,Electronics Stores 182,FR,False,Low
+M1183,4814,Telecom Services 183,AU,False,Medium
+M1184,5411,Grocery Stores 184,DE,False,Low
+M1185,5541,Gas Stations 185,GB,False,Medium
+M1186,5812,Restaurants 186,CA,False,Low
+M1187,5411,Grocery Stores 187,PA,False,High
+M1188,5999,Misc Retail 188,CA,True,Low
+M1189,5411,Grocery Stores 189,US,False,Medium
+M1190,5812,Restaurants 190,DE,False,Low
+M1191,7999,Misc Rec Services 191,GB,False,Low
+M1192,5411,Grocery Stores 192,US,False,Medium
+M1193,5732,Electronics Stores 193,CA,False,Low
+M1194,5732,Electronics Stores 194,US,False,Low
+M1195,5411,Grocery Stores 195,DE,True,Low
+M1196,5411,Grocery Stores 196,AU,False,Low
+M1197,5732,Electronics Stores 197,FR,False,Low
+M1198,5541,Gas Stations 198,CA,False,Medium
+M1199,5812,Restaurants 199,US,False,Low
+M1200,5812,Restaurants 200,FR,True,Medium
+M1201,5812,Restaurants 201,FR,True,Low
+M1202,5732,Electronics Stores 202,CA,False,Medium
+M1203,5732,Electronics Stores 203,US,False,Medium
+M1204,5732,Electronics Stores 204,US,False,Medium
+M1205,7999,Misc Rec Services 205,GB,True,Medium
+M1206,5541,Gas Stations 206,DE,False,Low
+M1207,5541,Gas Stations 207,US,False,Low
+M1208,5411,Grocery Stores 208,GB,False,Low
+M1209,5812,Restaurants 209,MT,False,High
+M1210,5732,Electronics Stores 210,CA,False,Low
+M1211,5541,Gas Stations 211,GB,True,Low
+M1212,5812,Restaurants 212,GB,False,Low
+M1213,7999,Misc Rec Services 213,DE,True,Low
+M1214,5999,Misc Retail 214,FR,True,Low
+M1215,4814,Telecom Services 215,DE,False,Low
+M1216,5999,Misc Retail 216,PA,False,High
+M1217,4814,Telecom Services 217,GB,False,Low
+M1218,5732,Electronics Stores 218,CA,False,Low
+M1219,5732,Electronics Stores 219,AU,False,Low
+M1220,7999,Misc Rec Services 220,GB,False,Low
+M1221,5812,Restaurants 221,GB,True,Medium
+M1222,4814,Telecom Services 222,GB,False,Low
+M1223,5541,Gas Stations 223,AU,False,Low
+M1224,5999,Misc Retail 224,CA,True,Low
+M1225,7999,Misc Rec Services 225,DE,False,Medium
+M1226,5732,Electronics Stores 226,LV,False,High
+M1227,5812,Restaurants 227,US,False,Medium
+M1228,4814,Telecom Services 228,CA,False,Low
+M1229,4814,Telecom Services 229,CA,False,Low
+M1230,5541,Gas Stations 230,FR,False,Low
+M1231,5411,Grocery Stores 231,CA,False,Medium
+M1232,5411,Grocery Stores 232,DE,False,Low
+M1233,5541,Gas Stations 233,FR,False,Low
+M1234,4814,Telecom Services 234,US,False,Low
+M1235,5999,Misc Retail 235,US,False,Medium
+M1236,5999,Misc Retail 236,CA,False,Low
+M1237,4814,Telecom Services 237,GB,True,Medium
+M1238,5411,Grocery Stores 238,CA,False,Low
+M1239,5732,Electronics Stores 239,FR,False,Medium
+M1240,7999,Misc Rec Services 240,US,True,Medium
+M1241,5812,Restaurants 241,CA,False,Medium
+M1242,7999,Misc Rec Services 242,DE,False,Medium
+M1243,5732,Electronics Stores 243,FR,False,Low
+M1244,5732,Electronics Stores 244,AU,False,Low
+M1245,5999,Misc Retail 245,FR,False,Medium
+M1246,7999,Misc Rec Services 246,AU,False,Low
+M1247,5541,Gas Stations 247,DE,False,Low
+M1248,5411,Grocery Stores 248,DE,False,Low
+M1249,5812,Restaurants 249,AU,True,Low
+M1250,5411,Grocery Stores 250,US,True,Low
+M1251,5541,Gas Stations 251,GB,False,Low
+M1252,5541,Gas Stations 252,DE,False,Low
+M1253,4814,Telecom Services 253,US,False,Low
+M1254,5732,Electronics Stores 254,US,False,Low
+M1255,4814,Telecom Services 255,FR,False,Medium
+M1256,4814,Telecom Services 256,CA,False,Medium
+M1257,4814,Telecom Services 257,CA,False,Low
+M1258,5812,Restaurants 258,GB,False,Low
+M1259,4814,Telecom Services 259,CA,True,Low
+M1260,7999,Misc Rec Services 260,AU,False,Low
+M1261,7999,Misc Rec Services 261,AU,False,Low
+M1262,5999,Misc Retail 262,US,False,Low
+M1263,4814,Telecom Services 263,GB,False,Low
+M1264,5732,Electronics Stores 264,DE,True,Low
+M1265,5812,Restaurants 265,DE,False,Low
+M1266,5732,Electronics Stores 266,DE,False,Low
+M1267,7999,Misc Rec Services 267,CA,False,Low
+M1268,5732,Electronics Stores 268,AU,True,Low
+M1269,5732,Electronics Stores 269,FR,True,Medium
+M1270,5411,Grocery Stores 270,FR,True,Medium
+M1271,5541,Gas Stations 271,US,False,Low
+M1272,5812,Restaurants 272,LV,False,High
+M1273,7999,Misc Rec Services 273,AU,False,Low
+M1274,7999,Misc Rec Services 274,AU,True,Low
+M1275,4814,Telecom Services 275,US,True,Low
+M1276,4814,Telecom Services 276,CA,True,Low
+M1277,5812,Restaurants 277,LV,True,High
+M1278,5999,Misc Retail 278,AU,False,Medium
+M1279,4814,Telecom Services 279,FR,False,Low
+M1280,7999,Misc Rec Services 280,GB,False,Low
+M1281,5541,Gas Stations 281,PA,False,High
+M1282,5411,Grocery Stores 282,US,False,Medium
+M1283,5411,Grocery Stores 283,US,False,Low
+M1284,4814,Telecom Services 284,FR,False,Low
+M1285,7999,Misc Rec Services 285,DE,False,Low
+M1286,7999,Misc Rec Services 286,US,False,Low
+M1287,5732,Electronics Stores 287,CA,False,Low
+M1288,5732,Electronics Stores 288,FR,True,Low
+M1289,7999,Misc Rec Services 289,US,True,Low
+M1290,5541,Gas Stations 290,CA,False,Low
+M1291,7999,Misc Rec Services 291,FR,False,Low
+M1292,5812,Restaurants 292,CA,False,Low
+M1293,5812,Restaurants 293,FR,False,Low
+M1294,5541,Gas Stations 294,US,False,Low
+M1295,5999,Misc Retail 295,GB,False,Medium
+M1296,4814,Telecom Services 296,FR,False,Low
+M1297,5411,Grocery Stores 297,FR,False,Low
+M1298,5411,Grocery Stores 298,AU,True,Low
+M1299,4814,Telecom Services 299,US,False,Low
+M1300,5732,Electronics Stores 300,FR,False,Low
+M1301,5732,Electronics Stores 301,CA,False,Low
+M1302,5999,Misc Retail 302,DE,False,Low
+M1303,5541,Gas Stations 303,CA,False,Low
+M1304,5732,Electronics Stores 304,CA,False,Low
+M1305,7999,Misc Rec Services 305,US,False,Medium
+M1306,5732,Electronics Stores 306,DE,False,Low
+M1307,5812,Restaurants 307,GB,False,Low
+M1308,4814,Telecom Services 308,CY,True,High
+M1309,5999,Misc Retail 309,AU,False,Low
+M1310,5812,Restaurants 310,RU,True,High
+M1311,5812,Restaurants 311,AU,True,Low
+M1312,4814,Telecom Services 312,AU,False,Low
+M1313,5411,Grocery Stores 313,AU,False,Low
+M1314,4814,Telecom Services 314,DE,False,Low
+M1315,5999,Misc Retail 315,CA,True,Low
+M1316,4814,Telecom Services 316,CA,False,Low
+M1317,5732,Electronics Stores 317,AU,False,Medium
+M1318,5999,Misc Retail 318,RU,False,High
+M1319,5732,Electronics Stores 319,US,True,Low
+M1320,5541,Gas Stations 320,FR,True,Medium
+M1321,5411,Grocery Stores 321,PA,False,High
+M1322,7999,Misc Rec Services 322,DE,True,Low
+M1323,5541,Gas Stations 323,CA,True,Low
+M1324,5732,Electronics Stores 324,GB,False,Low
+M1325,5999,Misc Retail 325,FR,False,Medium
+M1326,5411,Grocery Stores 326,CA,False,Low
+M1327,5541,Gas Stations 327,GB,False,Medium
+M1328,5541,Gas Stations 328,GB,False,Low
+M1329,5541,Gas Stations 329,GB,True,Low
+M1330,5732,Electronics Stores 330,US,True,Low
+M1331,5812,Restaurants 331,RU,False,High
+M1332,5732,Electronics Stores 332,GB,False,Low
+M1333,5999,Misc Retail 333,AU,False,Low
+M1334,5812,Restaurants 334,AU,True,Low
+M1335,5411,Grocery Stores 335,FR,True,Low
+M1336,5999,Misc Retail 336,CA,False,Low
+M1337,5732,Electronics Stores 337,GB,True,Medium
+M1338,7999,Misc Rec Services 338,RU,False,High
+M1339,5812,Restaurants 339,DE,False,Low
+M1340,4814,Telecom Services 340,AU,True,Low
+M1341,5541,Gas Stations 341,RU,False,High
+M1342,5812,Restaurants 342,CA,False,Medium
+M1343,4814,Telecom Services 343,AU,True,Low
+M1344,7999,Misc Rec Services 344,CA,False,Low
+M1345,5411,Grocery Stores 345,DE,False,Low
+M1346,7999,Misc Rec Services 346,MT,False,High
+M1347,4814,Telecom Services 347,CA,False,Medium
+M1348,5812,Restaurants 348,CA,True,Low
+M1349,5732,Electronics Stores 349,US,False,Low
+M1350,5411,Grocery Stores 350,GB,False,Low
+M1351,4814,Telecom Services 351,US,False,Low
+M1352,5411,Grocery Stores 352,CA,False,Low
+M1353,5541,Gas Stations 353,GB,False,Medium
+M1354,5411,Grocery Stores 354,US,False,Low
+M1355,5999,Misc Retail 355,DE,False,Low
+M1356,5732,Electronics Stores 356,US,False,Low
+M1357,5812,Restaurants 357,GB,False,Medium
+M1358,4814,Telecom Services 358,GB,False,Low
+M1359,5812,Restaurants 359,CA,False,Medium
+M1360,5541,Gas Stations 360,DE,True,Low
+M1361,5411,Grocery Stores 361,DE,True,Low
+M1362,5999,Misc Retail 362,DE,False,Low
+M1363,5541,Gas Stations 363,US,True,Medium
+M1364,5541,Gas Stations 364,AU,False,Low
+M1365,5541,Gas Stations 365,DE,False,Low
+M1366,5732,Electronics Stores 366,US,False,Low
+M1367,5732,Electronics Stores 367,CY,False,High
+M1368,5411,Grocery Stores 368,AU,False,Low
+M1369,5812,Restaurants 369,DE,False,Low
+M1370,4814,Telecom Services 370,GB,False,Low
+M1371,5732,Electronics Stores 371,LV,False,High
+M1372,7999,Misc Rec Services 372,FR,False,Low
+M1373,5732,Electronics Stores 373,DE,False,Medium
+M1374,7999,Misc Rec Services 374,GB,True,Low
+M1375,4814,Telecom Services 375,US,False,Low
+M1376,5541,Gas Stations 376,AU,False,Low
+M1377,5999,Misc Retail 377,DE,False,Low
+M1378,5541,Gas Stations 378,FR,False,Low
+M1379,5541,Gas Stations 379,AU,True,Low
+M1380,5732,Electronics Stores 380,LV,False,High
+M1381,5541,Gas Stations 381,MT,False,High
+M1382,7999,Misc Rec Services 382,AU,False,Low
+M1383,5411,Grocery Stores 383,GB,True,Low
+M1384,5541,Gas Stations 384,LV,True,High
+M1385,5411,Grocery Stores 385,US,False,Medium
+M1386,5411,Grocery Stores 386,AU,False,Low
+M1387,4814,Telecom Services 387,CA,False,Low
+M1388,5999,Misc Retail 388,GB,False,Low
+M1389,4814,Telecom Services 389,FR,False,Low
+M1390,5732,Electronics Stores 390,US,False,Low
+M1391,7999,Misc Rec Services 391,FR,False,Low
+M1392,4814,Telecom Services 392,DE,False,Low
+M1393,5999,Misc Retail 393,AU,False,Low
+M1394,5732,Electronics Stores 394,FR,True,Low
+M1395,5411,Grocery Stores 395,GB,True,Low
+M1396,7999,Misc Rec Services 396,US,False,Low
+M1397,5812,Restaurants 397,CA,False,Low
+M1398,5411,Grocery Stores 398,FR,True,Low
+M1399,7999,Misc Rec Services 399,GB,True,Low
+M1400,5411,Grocery Stores 400,US,True,Low
+M1401,5812,Restaurants 401,DE,False,Low
+M1402,5732,Electronics Stores 402,MT,False,High
+M1403,5999,Misc Retail 403,FR,False,Low
+M1404,5411,Grocery Stores 404,FR,False,Low
+M1405,5411,Grocery Stores 405,CA,False,Low
+M1406,5812,Restaurants 406,FR,False,Low
+M1407,5732,Electronics Stores 407,AU,True,Low
+M1408,5812,Restaurants 408,US,False,Medium
+M1409,5411,Grocery Stores 409,GB,True,Low
+M1410,4814,Telecom Services 410,GB,False,Medium
+M1411,5411,Grocery Stores 411,DE,True,Low
+M1412,5411,Grocery Stores 412,US,False,Medium
+M1413,5541,Gas Stations 413,CA,False,Low
+M1414,5732,Electronics Stores 414,CA,False,Medium
+M1415,7999,Misc Rec Services 415,GB,False,Low
+M1416,4814,Telecom Services 416,PA,False,High
+M1417,5812,Restaurants 417,FR,False,Low
+M1418,5541,Gas Stations 418,DE,False,Low
+M1419,5999,Misc Retail 419,AU,False,Low
+M1420,4814,Telecom Services 420,DE,False,Low
+M1421,5541,Gas Stations 421,FR,False,Low
+M1422,7999,Misc Rec Services 422,FR,False,Low
+M1423,7999,Misc Rec Services 423,GB,False,Low
+M1424,5999,Misc Retail 424,CA,False,Medium
+M1425,7999,Misc Rec Services 425,US,False,Medium
+M1426,4814,Telecom Services 426,GB,False,Low
+M1427,7999,Misc Rec Services 427,GB,False,Low
+M1428,4814,Telecom Services 428,GB,False,Medium
+M1429,7999,Misc Rec Services 429,FR,True,Low
+M1430,5411,Grocery Stores 430,AU,True,Low
+M1431,5732,Electronics Stores 431,CA,False,Low
+M1432,5411,Grocery Stores 432,AU,False,Medium
+M1433,7999,Misc Rec Services 433,FR,False,Low
+M1434,5541,Gas Stations 434,CY,False,High
+M1435,5812,Restaurants 435,CA,False,Low
+M1436,7999,Misc Rec Services 436,LV,True,High
+M1437,5411,Grocery Stores 437,AU,True,Low
+M1438,7999,Misc Rec Services 438,CA,False,Medium
+M1439,5732,Electronics Stores 439,FR,False,Low
+M1440,5541,Gas Stations 440,CA,False,Low
+M1441,4814,Telecom Services 441,PA,True,High
+M1442,5541,Gas Stations 442,PA,False,High
+M1443,4814,Telecom Services 443,CA,False,Low
+M1444,5411,Grocery Stores 444,DE,False,Low
+M1445,5999,Misc Retail 445,CA,False,Low
+M1446,5411,Grocery Stores 446,AU,True,Low
+M1447,5999,Misc Retail 447,US,False,Low
+M1448,5812,Restaurants 448,AU,False,Medium
+M1449,5732,Electronics Stores 449,LV,True,High
+M1450,5541,Gas Stations 450,GB,False,Low
+M1451,7999,Misc Rec Services 451,US,False,Low
+M1452,7999,Misc Rec Services 452,CA,False,Low
+M1453,5732,Electronics Stores 453,AU,False,Low
+M1454,5812,Restaurants 454,FR,False,Low
+M1455,5999,Misc Retail 455,GB,True,Low
+M1456,7999,Misc Rec Services 456,FR,False,Low
+M1457,5541,Gas Stations 457,GB,False,Medium
+M1458,5812,Restaurants 458,CA,False,Low
+M1459,7999,Misc Rec Services 459,DE,False,Medium
+M1460,5999,Misc Retail 460,DE,False,Low
+M1461,5999,Misc Retail 461,AU,False,Low
+M1462,7999,Misc Rec Services 462,GB,False,Low
+M1463,4814,Telecom Services 463,GB,False,Low
+M1464,5411,Grocery Stores 464,GB,False,Low
+M1465,5812,Restaurants 465,DE,False,Low
+M1466,5812,Restaurants 466,DE,False,Low
+M1467,5541,Gas Stations 467,GB,False,Medium
+M1468,5541,Gas Stations 468,DE,False,Low
+M1469,4814,Telecom Services 469,AU,False,Low
+M1470,4814,Telecom Services 470,RU,False,High
+M1471,5732,Electronics Stores 471,GB,False,Low
+M1472,5541,Gas Stations 472,CA,True,Low
+M1473,4814,Telecom Services 473,DE,False,Medium
+M1474,5411,Grocery Stores 474,AU,False,Low
+M1475,5411,Grocery Stores 475,US,False,Low
+M1476,4814,Telecom Services 476,FR,True,Low
+M1477,5999,Misc Retail 477,AU,False,Low
+M1478,5732,Electronics Stores 478,CA,False,Medium
+M1479,5541,Gas Stations 479,DE,False,Low
+M1480,5411,Grocery Stores 480,CA,False,Medium
+M1481,7999,Misc Rec Services 481,DE,True,Low
+M1482,5812,Restaurants 482,CA,True,Low
+M1483,5999,Misc Retail 483,US,False,Medium
+M1484,5732,Electronics Stores 484,GB,True,Low
+M1485,7999,Misc Rec Services 485,RU,False,High
+M1486,5411,Grocery Stores 486,DE,False,Low
+M1487,5999,Misc Retail 487,GB,False,Low
+M1488,5541,Gas Stations 488,FR,False,Low
+M1489,5732,Electronics Stores 489,CA,True,Low
+M1490,4814,Telecom Services 490,US,True,Low
+M1491,5541,Gas Stations 491,GB,False,Low
+M1492,5999,Misc Retail 492,MT,True,High
+M1493,5541,Gas Stations 493,PA,False,High
+M1494,5411,Grocery Stores 494,US,False,Low
+M1495,5541,Gas Stations 495,DE,False,Medium
+M1496,5999,Misc Retail 496,GB,False,Low
+M1497,5411,Grocery Stores 497,AU,False,Low
+M1498,4814,Telecom Services 498,FR,False,Low
+M1499,7999,Misc Rec Services 499,FR,False,Low
+M1500,7999,Misc Rec Services 500,FR,True,Low
+M1501,5541,Gas Stations 501,FR,False,Medium
+M1502,5411,Grocery Stores 502,GB,False,Low
+M1503,7999,Misc Rec Services 503,CA,True,Low
+M1504,5999,Misc Retail 504,FR,False,Medium
+M1505,5732,Electronics Stores 505,GB,False,Low
+M1506,5411,Grocery Stores 506,AU,True,Medium
+M1507,7999,Misc Rec Services 507,AU,True,Low
+M1508,5732,Electronics Stores 508,DE,False,Low
+M1509,5999,Misc Retail 509,RU,False,High
+M1510,4814,Telecom Services 510,GB,False,Low
+M1511,5732,Electronics Stores 511,DE,False,Low
+M1512,4814,Telecom Services 512,US,False,Low
+M1513,7999,Misc Rec Services 513,FR,False,Low
+M1514,5999,Misc Retail 514,GB,False,Low
+M1515,7999,Misc Rec Services 515,GB,True,Low
+M1516,5732,Electronics Stores 516,DE,False,Low
+M1517,7999,Misc Rec Services 517,CA,False,Low
+M1518,5732,Electronics Stores 518,US,False,Low
+M1519,7999,Misc Rec Services 519,CA,False,Low
+M1520,7999,Misc Rec Services 520,US,False,Medium
+M1521,7999,Misc Rec Services 521,GB,False,Low
+M1522,7999,Misc Rec Services 522,CA,False,Low
+M1523,7999,Misc Rec Services 523,GB,True,Low
+M1524,5541,Gas Stations 524,AU,False,Low
+M1525,5541,Gas Stations 525,US,False,Low
+M1526,4814,Telecom Services 526,GB,False,Low
+M1527,5411,Grocery Stores 527,FR,True,Low
+M1528,5732,Electronics Stores 528,AU,True,Low
+M1529,5541,Gas Stations 529,FR,False,Medium
+M1530,4814,Telecom Services 530,US,False,Low
+M1531,5541,Gas Stations 531,FR,False,Low
+M1532,5541,Gas Stations 532,GB,True,Low
+M1533,5999,Misc Retail 533,FR,False,Low
+M1534,5812,Restaurants 534,US,True,Medium
+M1535,4814,Telecom Services 535,CA,False,Medium
+M1536,5411,Grocery Stores 536,GB,False,Medium
+M1537,5812,Restaurants 537,CA,True,Low
+M1538,5541,Gas Stations 538,CY,False,High
+M1539,5812,Restaurants 539,DE,True,Low
+M1540,5812,Restaurants 540,RU,True,High
+M1541,5812,Restaurants 541,FR,False,Low
+M1542,5541,Gas Stations 542,FR,False,Low
+M1543,4814,Telecom Services 543,US,False,Medium
+M1544,4814,Telecom Services 544,US,True,Low
+M1545,5541,Gas Stations 545,FR,False,Low
+M1546,7999,Misc Rec Services 546,GB,False,Low
+M1547,7999,Misc Rec Services 547,DE,False,Medium
+M1548,5541,Gas Stations 548,GB,True,Low
+M1549,5999,Misc Retail 549,FR,False,Low
+M1550,5732,Electronics Stores 550,GB,False,Medium
+M1551,5541,Gas Stations 551,FR,False,Low
+M1552,5732,Electronics Stores 552,GB,False,Low
+M1553,5999,Misc Retail 553,US,False,Low
+M1554,5541,Gas Stations 554,DE,False,Medium
+M1555,5999,Misc Retail 555,FR,False,Low
+M1556,5541,Gas Stations 556,GB,False,Low
+M1557,5411,Grocery Stores 557,DE,False,Low
+M1558,5732,Electronics Stores 558,CA,False,Low
+M1559,5732,Electronics Stores 559,DE,False,Low
+M1560,5411,Grocery Stores 560,US,False,Low
+M1561,5812,Restaurants 561,MT,False,High
+M1562,5812,Restaurants 562,GB,False,Medium
+M1563,5812,Restaurants 563,PA,True,High
+M1564,5541,Gas Stations 564,US,False,Low
+M1565,5812,Restaurants 565,PA,True,High
+M1566,5411,Grocery Stores 566,FR,False,Low
+M1567,5541,Gas Stations 567,DE,False,Low
+M1568,7999,Misc Rec Services 568,FR,False,Medium
+M1569,5732,Electronics Stores 569,AU,False,Medium
+M1570,4814,Telecom Services 570,DE,True,Low
+M1571,5541,Gas Stations 571,DE,False,Low
+M1572,5812,Restaurants 572,GB,False,Medium
+M1573,5411,Grocery Stores 573,FR,True,Medium
+M1574,7999,Misc Rec Services 574,AU,False,Low
+M1575,5732,Electronics Stores 575,FR,True,Low
+M1576,5999,Misc Retail 576,RU,True,High
+M1577,5411,Grocery Stores 577,CA,False,Low
+M1578,7999,Misc Rec Services 578,DE,True,Low
+M1579,4814,Telecom Services 579,GB,True,Low
+M1580,5732,Electronics Stores 580,AU,False,Low
+M1581,5732,Electronics Stores 581,AU,True,Medium
+M1582,7999,Misc Rec Services 582,AU,False,Low
+M1583,4814,Telecom Services 583,AU,True,Low
+M1584,7999,Misc Rec Services 584,GB,False,Low
+M1585,4814,Telecom Services 585,GB,False,Low
+M1586,5411,Grocery Stores 586,AU,False,Low
+M1587,5411,Grocery Stores 587,US,False,Low
+M1588,7999,Misc Rec Services 588,GB,False,Low
+M1589,7999,Misc Rec Services 589,RU,False,High
+M1590,5999,Misc Retail 590,AU,False,Low
+M1591,5411,Grocery Stores 591,DE,False,Low
+M1592,5541,Gas Stations 592,DE,False,Low
+M1593,5999,Misc Retail 593,FR,True,Low
+M1594,5999,Misc Retail 594,AU,False,Medium
+M1595,5812,Restaurants 595,DE,True,Low
+M1596,4814,Telecom Services 596,US,False,Low
+M1597,5732,Electronics Stores 597,AU,True,Low
+M1598,5812,Restaurants 598,CA,False,Low
+M1599,7999,Misc Rec Services 599,US,False,Low
+M1600,5732,Electronics Stores 600,GB,False,Low
+M1601,7999,Misc Rec Services 601,AU,True,Low
+M1602,5541,Gas Stations 602,DE,True,Low
+M1603,4814,Telecom Services 603,DE,False,Low
+M1604,5732,Electronics Stores 604,CA,False,Low
+M1605,5812,Restaurants 605,US,True,Low
+M1606,5732,Electronics Stores 606,US,False,Low
+M1607,5732,Electronics Stores 607,GB,False,Low
+M1608,7999,Misc Rec Services 608,AU,True,Medium
+M1609,4814,Telecom Services 609,US,False,Medium
+M1610,5411,Grocery Stores 610,CA,False,Low
+M1611,5812,Restaurants 611,AU,False,Low
+M1612,5411,Grocery Stores 612,US,True,Low
+M1613,5812,Restaurants 613,FR,False,Low
+M1614,5732,Electronics Stores 614,CA,False,Low
+M1615,5999,Misc Retail 615,AU,False,Medium
+M1616,5541,Gas Stations 616,DE,False,Low
+M1617,5812,Restaurants 617,CY,False,High
+M1618,5732,Electronics Stores 618,CA,False,Medium
+M1619,5812,Restaurants 619,AU,False,Low
+M1620,5411,Grocery Stores 620,AU,True,Low
+M1621,5541,Gas Stations 621,AU,False,Low
+M1622,5411,Grocery Stores 622,US,True,Low
+M1623,5411,Grocery Stores 623,DE,False,Medium
+M1624,4814,Telecom Services 624,US,False,Medium
+M1625,7999,Misc Rec Services 625,AU,False,Low
+M1626,5732,Electronics Stores 626,AU,False,Medium
+M1627,7999,Misc Rec Services 627,GB,True,Low
+M1628,7999,Misc Rec Services 628,FR,True,Low
+M1629,4814,Telecom Services 629,FR,False,Low
+M1630,5541,Gas Stations 630,GB,False,Low
+M1631,4814,Telecom Services 631,GB,False,Medium
+M1632,4814,Telecom Services 632,FR,False,Medium
+M1633,5732,Electronics Stores 633,DE,False,Low
+M1634,5999,Misc Retail 634,AU,True,Low
+M1635,5541,Gas Stations 635,GB,False,Medium
+M1636,5812,Restaurants 636,CA,False,Low
+M1637,5541,Gas Stations 637,AU,False,Low
+M1638,7999,Misc Rec Services 638,PA,False,High
+M1639,5541,Gas Stations 639,MT,False,High
+M1640,5411,Grocery Stores 640,CY,False,High
+M1641,7999,Misc Rec Services 641,AU,False,Low
+M1642,5732,Electronics Stores 642,DE,False,Low
+M1643,5999,Misc Retail 643,US,False,Low
+M1644,5541,Gas Stations 644,CA,False,Low
+M1645,7999,Misc Rec Services 645,AU,False,Low
+M1646,7999,Misc Rec Services 646,AU,False,Low
+M1647,4814,Telecom Services 647,DE,False,Low
+M1648,5812,Restaurants 648,CA,True,Low
+M1649,5411,Grocery Stores 649,DE,False,Low
+M1650,4814,Telecom Services 650,GB,True,Low
+M1651,5812,Restaurants 651,CA,False,Low
+M1652,5999,Misc Retail 652,CA,False,Low
+M1653,5411,Grocery Stores 653,CA,True,Low
+M1654,5999,Misc Retail 654,AU,False,Low
+M1655,5732,Electronics Stores 655,AU,False,Low
+M1656,5411,Grocery Stores 656,CA,True,Low
+M1657,4814,Telecom Services 657,DE,False,Low
+M1658,5541,Gas Stations 658,AU,False,Low
+M1659,5411,Grocery Stores 659,GB,False,Low
+M1660,5411,Grocery Stores 660,AU,False,Low
+M1661,5999,Misc Retail 661,US,False,Low
+M1662,5411,Grocery Stores 662,US,True,Low
+M1663,5411,Grocery Stores 663,CA,False,Low
+M1664,5999,Misc Retail 664,US,True,Low
+M1665,5732,Electronics Stores 665,CA,False,Low
+M1666,7999,Misc Rec Services 666,GB,False,Medium
+M1667,5541,Gas Stations 667,US,False,Low
+M1668,5541,Gas Stations 668,AU,False,Low
+M1669,7999,Misc Rec Services 669,CA,False,Low
+M1670,5732,Electronics Stores 670,RU,False,High
+M1671,4814,Telecom Services 671,GB,False,Low
+M1672,7999,Misc Rec Services 672,CA,True,Low
+M1673,5812,Restaurants 673,AU,True,Low
+M1674,5812,Restaurants 674,GB,False,Low
+M1675,5541,Gas Stations 675,US,False,Low
+M1676,5812,Restaurants 676,CA,False,Low
+M1677,5812,Restaurants 677,DE,True,Low
+M1678,7999,Misc Rec Services 678,PA,False,High
+M1679,4814,Telecom Services 679,AU,False,Low
+M1680,5999,Misc Retail 680,FR,True,Low
+M1681,5812,Restaurants 681,FR,False,Low
+M1682,5541,Gas Stations 682,DE,False,Low
+M1683,5411,Grocery Stores 683,CA,False,Low
+M1684,5541,Gas Stations 684,CA,False,Medium
+M1685,5812,Restaurants 685,GB,False,Low
+M1686,5732,Electronics Stores 686,GB,False,Low
+M1687,5999,Misc Retail 687,CA,False,Medium
+M1688,7999,Misc Rec Services 688,FR,True,Low
+M1689,7999,Misc Rec Services 689,FR,False,Low
+M1690,5812,Restaurants 690,FR,False,Low
+M1691,4814,Telecom Services 691,GB,False,Low
+M1692,5411,Grocery Stores 692,DE,False,Low
+M1693,5732,Electronics Stores 693,AU,False,Medium
+M1694,5812,Restaurants 694,GB,True,Low
+M1695,7999,Misc Rec Services 695,CA,True,Low
+M1696,5999,Misc Retail 696,FR,False,Low
+M1697,5999,Misc Retail 697,US,False,Medium
+M1698,5999,Misc Retail 698,US,False,Medium
+M1699,7999,Misc Rec Services 699,GB,True,Low
+M1700,5732,Electronics Stores 700,DE,True,Low
+M1701,5541,Gas Stations 701,DE,False,Low
+M1702,4814,Telecom Services 702,DE,False,Medium
+M1703,4814,Telecom Services 703,CA,True,Low
+M1704,5541,Gas Stations 704,US,False,Low
+M1705,5411,Grocery Stores 705,US,True,Low
+M1706,7999,Misc Rec Services 706,DE,False,Low
+M1707,5411,Grocery Stores 707,FR,True,Low
+M1708,5541,Gas Stations 708,AU,False,Low
+M1709,5541,Gas Stations 709,FR,False,Medium
+M1710,5999,Misc Retail 710,GB,False,Low
+M1711,7999,Misc Rec Services 711,US,False,Low
+M1712,5999,Misc Retail 712,FR,False,Low
+M1713,5541,Gas Stations 713,AU,False,Low
+M1714,7999,Misc Rec Services 714,US,True,Low
+M1715,5732,Electronics Stores 715,DE,False,Low
+M1716,5541,Gas Stations 716,AU,False,Low
+M1717,5732,Electronics Stores 717,GB,True,Medium
+M1718,7999,Misc Rec Services 718,GB,False,Low
+M1719,5812,Restaurants 719,US,False,Medium
+M1720,5812,Restaurants 720,CA,False,Low
+M1721,5732,Electronics Stores 721,DE,True,Low
+M1722,7999,Misc Rec Services 722,GB,True,Low
+M1723,4814,Telecom Services 723,US,False,Low
+M1724,5411,Grocery Stores 724,GB,False,Low
+M1725,5732,Electronics Stores 725,GB,True,Medium
+M1726,7999,Misc Rec Services 726,DE,False,Low
+M1727,5541,Gas Stations 727,GB,False,Low
+M1728,7999,Misc Rec Services 728,DE,False,Medium
+M1729,5999,Misc Retail 729,AU,False,Medium
+M1730,5812,Restaurants 730,DE,True,Medium
+M1731,5812,Restaurants 731,DE,False,Low
+M1732,5411,Grocery Stores 732,FR,False,Low
+M1733,4814,Telecom Services 733,US,False,Low
+M1734,7999,Misc Rec Services 734,CA,True,Low
+M1735,4814,Telecom Services 735,US,False,Low
+M1736,5999,Misc Retail 736,GB,False,Low
+M1737,5541,Gas Stations 737,CA,False,Low
+M1738,5541,Gas Stations 738,DE,False,Medium
+M1739,7999,Misc Rec Services 739,US,False,Medium
+M1740,5999,Misc Retail 740,CA,False,Low
+M1741,5541,Gas Stations 741,US,True,Low
+M1742,5732,Electronics Stores 742,AU,False,Low
+M1743,7999,Misc Rec Services 743,US,False,Medium
+M1744,5411,Grocery Stores 744,FR,False,Low
+M1745,5999,Misc Retail 745,DE,True,Low
+M1746,5999,Misc Retail 746,FR,True,Medium
+M1747,5541,Gas Stations 747,CA,False,Low
+M1748,4814,Telecom Services 748,CA,True,Low
+M1749,7999,Misc Rec Services 749,US,False,Medium
+M1750,5541,Gas Stations 750,AU,True,Medium
+M1751,5541,Gas Stations 751,US,False,Medium
+M1752,7999,Misc Rec Services 752,US,False,Low
+M1753,7999,Misc Rec Services 753,AU,False,Low
+M1754,5541,Gas Stations 754,AU,False,Low
+M1755,5732,Electronics Stores 755,GB,False,Low
+M1756,7999,Misc Rec Services 756,DE,False,Low
+M1757,5812,Restaurants 757,CA,False,Low
+M1758,4814,Telecom Services 758,GB,False,Medium
+M1759,5999,Misc Retail 759,RU,True,High
+M1760,5541,Gas Stations 760,US,True,Medium
+M1761,5411,Grocery Stores 761,GB,False,Low
+M1762,4814,Telecom Services 762,AU,False,Medium
+M1763,4814,Telecom Services 763,AU,False,Medium
+M1764,4814,Telecom Services 764,US,False,Low
+M1765,4814,Telecom Services 765,FR,True,Low
+M1766,5541,Gas Stations 766,CY,False,High
+M1767,5732,Electronics Stores 767,US,False,Low
+M1768,5541,Gas Stations 768,US,False,Low
+M1769,5541,Gas Stations 769,DE,False,Low
+M1770,5812,Restaurants 770,DE,True,Medium
+M1771,4814,Telecom Services 771,FR,False,Low
+M1772,5812,Restaurants 772,US,True,Low
+M1773,4814,Telecom Services 773,US,False,Low
+M1774,5411,Grocery Stores 774,PA,False,High
+M1775,5541,Gas Stations 775,AU,False,Low
+M1776,4814,Telecom Services 776,DE,False,Medium
+M1777,7999,Misc Rec Services 777,FR,False,Medium
+M1778,5732,Electronics Stores 778,AU,False,Low
+M1779,5732,Electronics Stores 779,CA,False,Low
+M1780,5732,Electronics Stores 780,AU,True,Low
+M1781,5411,Grocery Stores 781,DE,False,Medium
+M1782,5732,Electronics Stores 782,US,False,Low
+M1783,5732,Electronics Stores 783,US,False,Low
+M1784,4814,Telecom Services 784,LV,True,High
+M1785,5411,Grocery Stores 785,US,False,Low
+M1786,5541,Gas Stations 786,DE,True,Medium
+M1787,5999,Misc Retail 787,RU,False,High
+M1788,5812,Restaurants 788,US,False,Low
+M1789,5812,Restaurants 789,FR,False,Low
+M1790,5999,Misc Retail 790,GB,False,Low
+M1791,5541,Gas Stations 791,AU,False,Low
+M1792,5541,Gas Stations 792,FR,False,Low
+M1793,5999,Misc Retail 793,US,False,Low
+M1794,5411,Grocery Stores 794,AU,False,Low
+M1795,7999,Misc Rec Services 795,CA,True,Medium
+M1796,5812,Restaurants 796,GB,False,Low
+M1797,5812,Restaurants 797,GB,False,Low
+M1798,7999,Misc Rec Services 798,US,False,Low
+M1799,5732,Electronics Stores 799,AU,False,Low
+M1800,5732,Electronics Stores 800,US,False,Low
+M1801,5999,Misc Retail 801,FR,False,Low
+M1802,5999,Misc Retail 802,FR,False,Low
+M1803,5812,Restaurants 803,FR,True,Low
+M1804,4814,Telecom Services 804,DE,False,Low
+M1805,5999,Misc Retail 805,FR,True,Low
+M1806,5541,Gas Stations 806,DE,False,Low
+M1807,5732,Electronics Stores 807,GB,False,Low
+M1808,7999,Misc Rec Services 808,CA,False,Low
+M1809,5732,Electronics Stores 809,FR,False,Low
+M1810,5812,Restaurants 810,AU,False,Low
+M1811,5732,Electronics Stores 811,FR,False,Low
+M1812,5999,Misc Retail 812,US,True,Low
+M1813,5541,Gas Stations 813,DE,False,Low
+M1814,5732,Electronics Stores 814,GB,False,Low
+M1815,5999,Misc Retail 815,DE,True,Medium
+M1816,7999,Misc Rec Services 816,GB,False,Medium
+M1817,5411,Grocery Stores 817,FR,True,Low
+M1818,5411,Grocery Stores 818,US,False,Low
+M1819,7999,Misc Rec Services 819,US,True,Low
+M1820,5812,Restaurants 820,CA,True,Low
+M1821,7999,Misc Rec Services 821,FR,True,Low
+M1822,5411,Grocery Stores 822,CA,False,Low
+M1823,4814,Telecom Services 823,US,True,Medium
+M1824,5812,Restaurants 824,CA,True,Low
+M1825,5999,Misc Retail 825,FR,False,Low
+M1826,4814,Telecom Services 826,AU,False,Medium
+M1827,5541,Gas Stations 827,US,False,Low
+M1828,5732,Electronics Stores 828,AU,False,Low
+M1829,4814,Telecom Services 829,AU,False,Low
+M1830,5541,Gas Stations 830,US,True,Low
+M1831,4814,Telecom Services 831,AU,False,Low
+M1832,5812,Restaurants 832,GB,True,Medium
+M1833,5999,Misc Retail 833,AU,False,Low
+M1834,7999,Misc Rec Services 834,AU,False,Low
+M1835,4814,Telecom Services 835,GB,False,Low
+M1836,5999,Misc Retail 836,GB,True,Low
+M1837,5411,Grocery Stores 837,AU,False,Low
+M1838,5411,Grocery Stores 838,US,False,Medium
+M1839,5411,Grocery Stores 839,AU,False,Low
+M1840,5411,Grocery Stores 840,GB,False,Low
+M1841,7999,Misc Rec Services 841,DE,False,Medium
+M1842,5812,Restaurants 842,US,False,Low
+M1843,5812,Restaurants 843,MT,False,High
+M1844,5541,Gas Stations 844,US,True,Low
+M1845,4814,Telecom Services 845,CA,False,Low
+M1846,7999,Misc Rec Services 846,AU,False,Low
+M1847,4814,Telecom Services 847,US,False,Low
+M1848,5541,Gas Stations 848,AU,True,Medium
+M1849,5411,Grocery Stores 849,CA,True,Low
+M1850,5541,Gas Stations 850,FR,True,Low
+M1851,5999,Misc Retail 851,GB,False,Low
+M1852,4814,Telecom Services 852,CA,False,Low
+M1853,5411,Grocery Stores 853,FR,False,Low
+M1854,5812,Restaurants 854,US,False,Low
+M1855,5999,Misc Retail 855,CA,False,Low
+M1856,5411,Grocery Stores 856,US,False,Low
+M1857,5812,Restaurants 857,US,True,Low
+M1858,5812,Restaurants 858,MT,False,High
+M1859,7999,Misc Rec Services 859,GB,False,Medium
+M1860,5812,Restaurants 860,AU,False,Low
+M1861,4814,Telecom Services 861,US,False,Medium
+M1862,5411,Grocery Stores 862,CA,False,Low
+M1863,5411,Grocery Stores 863,AU,False,Low
+M1864,5732,Electronics Stores 864,US,False,Low
+M1865,5411,Grocery Stores 865,GB,False,Low
+M1866,5732,Electronics Stores 866,AU,False,Low
+M1867,5812,Restaurants 867,DE,True,Low
+M1868,5999,Misc Retail 868,LV,False,High
+M1869,5732,Electronics Stores 869,US,False,Low
+M1870,5999,Misc Retail 870,US,False,Low
+M1871,5999,Misc Retail 871,US,False,Medium
+M1872,5411,Grocery Stores 872,GB,True,Low
+M1873,7999,Misc Rec Services 873,US,False,Low
+M1874,7999,Misc Rec Services 874,US,False,Low
+M1875,7999,Misc Rec Services 875,AU,False,Low
+M1876,4814,Telecom Services 876,GB,False,Low
+M1877,7999,Misc Rec Services 877,MT,False,High
+M1878,5411,Grocery Stores 878,GB,False,Low
+M1879,4814,Telecom Services 879,US,False,Low
+M1880,5999,Misc Retail 880,FR,False,Low
+M1881,7999,Misc Rec Services 881,GB,False,Low
+M1882,5999,Misc Retail 882,GB,False,Medium
+M1883,5999,Misc Retail 883,CY,True,High
+M1884,5999,Misc Retail 884,AU,False,Medium
+M1885,4814,Telecom Services 885,AU,False,Medium
+M1886,5411,Grocery Stores 886,AU,False,Low
+M1887,5732,Electronics Stores 887,US,False,Low
+M1888,5411,Grocery Stores 888,CA,False,Low
+M1889,5541,Gas Stations 889,CA,False,Medium
+M1890,5732,Electronics Stores 890,LV,True,High
+M1891,5732,Electronics Stores 891,CA,False,Medium
+M1892,7999,Misc Rec Services 892,FR,False,Low
+M1893,5541,Gas Stations 893,AU,False,Low
+M1894,5812,Restaurants 894,CA,False,Low
+M1895,5732,Electronics Stores 895,MT,False,High
+M1896,7999,Misc Rec Services 896,US,True,Low
+M1897,5812,Restaurants 897,DE,False,Low
+M1898,5732,Electronics Stores 898,GB,False,Low
+M1899,5732,Electronics Stores 899,FR,True,Low
+M1900,7999,Misc Rec Services 900,CA,False,Low
+M1901,5999,Misc Retail 901,DE,False,Low
+M1902,5411,Grocery Stores 902,DE,False,Low
+M1903,5999,Misc Retail 903,CA,False,Low
+M1904,5999,Misc Retail 904,DE,True,Low
+M1905,5411,Grocery Stores 905,GB,False,Medium
+M1906,7999,Misc Rec Services 906,DE,False,Low
+M1907,5732,Electronics Stores 907,AU,True,Low
+M1908,5541,Gas Stations 908,US,False,Low
+M1909,5999,Misc Retail 909,GB,False,Low
+M1910,5732,Electronics Stores 910,CA,False,Low
+M1911,7999,Misc Rec Services 911,US,False,Medium
+M1912,5812,Restaurants 912,FR,False,Medium
+M1913,5812,Restaurants 913,MT,False,High
+M1914,5541,Gas Stations 914,GB,False,Low
+M1915,7999,Misc Rec Services 915,US,False,Low
+M1916,7999,Misc Rec Services 916,GB,False,Low
+M1917,7999,Misc Rec Services 917,CY,True,High
+M1918,5732,Electronics Stores 918,FR,False,Low
+M1919,5411,Grocery Stores 919,US,False,Low
+M1920,5541,Gas Stations 920,DE,False,Medium
+M1921,5812,Restaurants 921,DE,False,Low
+M1922,7999,Misc Rec Services 922,GB,False,Low
+M1923,5999,Misc Retail 923,US,False,Medium
+M1924,5732,Electronics Stores 924,DE,False,Medium
+M1925,5999,Misc Retail 925,CA,True,Medium
+M1926,7999,Misc Rec Services 926,PA,False,High
+M1927,5732,Electronics Stores 927,CA,False,Low
+M1928,5732,Electronics Stores 928,DE,True,Low
+M1929,5541,Gas Stations 929,FR,False,Medium
+M1930,5999,Misc Retail 930,GB,False,Low
+M1931,7999,Misc Rec Services 931,GB,True,Medium
+M1932,5541,Gas Stations 932,AU,False,Low
+M1933,4814,Telecom Services 933,CA,False,Low
+M1934,7999,Misc Rec Services 934,DE,False,Low
+M1935,5411,Grocery Stores 935,CA,False,Low
+M1936,4814,Telecom Services 936,US,False,Low
+M1937,5812,Restaurants 937,CA,False,Low
+M1938,4814,Telecom Services 938,FR,False,Low
+M1939,5999,Misc Retail 939,GB,False,Medium
+M1940,7999,Misc Rec Services 940,AU,False,Low
+M1941,5541,Gas Stations 941,CA,False,Medium
+M1942,5411,Grocery Stores 942,US,False,Low
+M1943,4814,Telecom Services 943,DE,False,Low
+M1944,5812,Restaurants 944,DE,False,Low
+M1945,5541,Gas Stations 945,GB,False,Low
+M1946,5541,Gas Stations 946,DE,False,Low
+M1947,7999,Misc Rec Services 947,FR,False,Low
+M1948,7999,Misc Rec Services 948,AU,True,Low
+M1949,5411,Grocery Stores 949,AU,False,Low
+M1950,5732,Electronics Stores 950,AU,False,Low
+M1951,5812,Restaurants 951,DE,True,Medium
+M1952,5411,Grocery Stores 952,GB,False,Low
+M1953,4814,Telecom Services 953,FR,False,Low
+M1954,7999,Misc Rec Services 954,FR,False,Low
+M1955,5541,Gas Stations 955,FR,False,Medium
+M1956,5732,Electronics Stores 956,CA,False,Low
+M1957,5812,Restaurants 957,CA,False,Low
+M1958,5411,Grocery Stores 958,PA,False,High
+M1959,5812,Restaurants 959,FR,False,Medium
+M1960,5541,Gas Stations 960,FR,False,Low
+M1961,4814,Telecom Services 961,RU,False,High
+M1962,5541,Gas Stations 962,GB,False,Medium
+M1963,5732,Electronics Stores 963,US,True,Medium
+M1964,5541,Gas Stations 964,CA,False,Low
+M1965,5541,Gas Stations 965,FR,True,Medium
+M1966,5732,Electronics Stores 966,CA,True,Medium
+M1967,5812,Restaurants 967,US,False,Low
+M1968,5541,Gas Stations 968,DE,False,Low
+M1969,5411,Grocery Stores 969,GB,False,Low
+M1970,5541,Gas Stations 970,FR,True,Medium
+M1971,5812,Restaurants 971,GB,False,Low
+M1972,4814,Telecom Services 972,GB,False,Medium
+M1973,5541,Gas Stations 973,GB,False,Low
+M1974,7999,Misc Rec Services 974,FR,False,Medium
+M1975,4814,Telecom Services 975,US,True,Low
+M1976,5541,Gas Stations 976,CA,False,Low
+M1977,5999,Misc Retail 977,US,False,Low
+M1978,5411,Grocery Stores 978,CA,True,Low
+M1979,5999,Misc Retail 979,GB,False,Low
+M1980,4814,Telecom Services 980,DE,True,Medium
+M1981,4814,Telecom Services 981,CA,False,Low
+M1982,5411,Grocery Stores 982,DE,False,Low
+M1983,5541,Gas Stations 983,US,False,Low
+M1984,7999,Misc Rec Services 984,LV,False,High
+M1985,4814,Telecom Services 985,CA,False,Low
+M1986,7999,Misc Rec Services 986,FR,False,Low
+M1987,5732,Electronics Stores 987,US,False,Low
+M1988,5812,Restaurants 988,AU,False,Medium
+M1989,5812,Restaurants 989,GB,False,Medium
+M1990,5411,Grocery Stores 990,US,False,Low
+M1991,7999,Misc Rec Services 991,FR,False,Low
+M1992,5999,Misc Retail 992,FR,True,Low
+M1993,7999,Misc Rec Services 993,GB,False,Low
+M1994,4814,Telecom Services 994,US,False,Medium
+M1995,5812,Restaurants 995,FR,False,Low
+M1996,5732,Electronics Stores 996,DE,False,Medium
+M1997,5812,Restaurants 997,US,True,Low
+M1998,5411,Grocery Stores 998,US,False,Low
+M1999,5812,Restaurants 999,CA,False,Low
