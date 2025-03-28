@@ -1,6 +1,6 @@
 # Multi-Agent Fraud detector app, OpenAI-compatible with MCP Architecture
 
-Multi-agent (4) framework for running OpenAI-compatible workflow for detecting financial annomalies using Model-Client-Proxy (MCP) architecture.
+Multi-agent (4) framework for running OpenAI-compatible workflow for detecting financial annomalies using Model-Context-Protocol (MCP) architecture.
 
 ## Overview
 
